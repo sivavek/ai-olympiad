@@ -20,8 +20,8 @@ Python Programming for Middle Schoolers
 3. Conditional Statements in Python
 	1. What are Conditional Statements?
 4. Loops in Python
- 1. for loop
- 2. while loop
+	1. for loop
+	2. while loop
 6. Strings in Python
 	5.1 What is a String?
 	5.2 String Operations

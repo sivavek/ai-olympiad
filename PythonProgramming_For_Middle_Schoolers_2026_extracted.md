@@ -87,19 +87,19 @@ learning, and more
 > van Rossum, the creator of Python, was a fan of the show and wanted a name
 > that was short, unique, and slightly mysterious, hence "Python"
 
-1.1 Why is Python Easy to Learn?
+- 1.1 Why is Python Easy to Learn?
     - Simple English-like language
     - No semicolons or curly braces
     - Write less code, do more work
     - Free and open source
-1.2 Where is Python Used?
+- 1.2 Where is Python Used?
     - Games like Snake and Flappy Bird
     - Apps & Websites like Instagram and YouTube
     - Artificial Intelligence (AI) and Robotics
-1.3 First Python Program
+- 1.3 First Python Program
 `print("Welcome! Learn Python")`
 
-1.4 How to Add Comments
+- 1.4 How to Add Comments
     - Single-line comment: Use `#`
     - Multi-line comment: Use triple quotes `###.....###`
 ```
@@ -108,10 +108,10 @@ learning, and more
 multi-line comment.
 ###
 ```
-1.5 What is Input in Python?
+- 1.5 What is Input in Python?
 Input means taking information while the program runs, e.g., asking for your
 name or numbers.
-1.6 How to Take Input in Python?
+- 1.6 How to Take Input in Python?
 Using input:
 name = input("Enter your name: ")
 print("'Hello", name)

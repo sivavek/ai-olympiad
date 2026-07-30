@@ -116,33 +116,37 @@ Using `input()`:
 ```
 name = input("Enter your name: ")
 print("'Hello", name)
-*** Important: Inputs through input() are strings by default. Convert to numbers when needed: ***
+# *Important: Inputs through input() are strings by default. Convert to numbers when needed:*
 age = int(input(Enter your age: "))
 print("You are", age, "years old.")
-*** Example: Adding Two Numbers (correctly) ***
+
+# *Example: Adding Two Numbers (correctly)*
 
 a = int(input("Enter first number: ")
 b = int(input("Enter second number: ")
 print("Sum is:", a + b)
 ```
-1.7 What is a Variable?
+- 1.7 What is a Variable?
 A container that stores information such as numbers or text.
-1.8 How to Create a Variable
+
+- 1.8 How to Create a Variable
+```
 name = "Akash"
 age = 13
 score = 100
-1.9 Variable Naming Rules
-- Can contain letters, numbers, underscores
-- Cannot start with a number
-- No spaces allowed
-- Case-sensitive
-1.10 Data Types in Python
-- int: whole numbers
-- float: decimal numbers
-- str: text/string
-- bool: True or False
-talent s
-Part of Accenture
+```
+- 1.9 Variable Naming Rules
+    - Can contain letters, numbers, underscores
+    - Cannot start with a number
+    - No spaces allowed
+    - Case-sensitive
+
+- 1.10 Data Types in Python
+    - int: whole numbers
+    - float: decimal numbers
+    - str: text/string
+    - bool: True or False
+```
 Example:
 name = "Rahul" # string
 # integer
@@ -151,30 +155,21 @@ age = 12
 height = 4.8
 is_student = True # boolean
 print(name, age, height, is_student)
-2. Arithmetic Operators
-Meaning
-Example
-Operator
-+
-a + b
-Addition
-a - b
-Subtraction
-*
-Multiplication
-a * b
-Division (float)
-a / b
-/
-Floor Division
-a // b
-//
-Modulus (remainder)
-a % b
-**
-a ** b
-Exponent (power)
-Example:
+```
+
+## 2. Arithmetic Operators
+|Operator|Example|Meaning|
+|---|---|---|
+|+|a + b|Addition|
+|-|a - b|Subtraction|
+|*|a * b|Multiplication|
+|/|a/b||Division (float)|
+|//|a // b|Floor Division|
+|%|a % b|Modulus (remainder)|
+|**||a ** b|Exponent (power)|
+
+**Example:**
+```
 a, b = 10, 3
 print("Sum:", a + b)
 print("Difference:", a - b)
@@ -184,55 +179,59 @@ print("Floor Division:", a / / b)
 print("Remainder:", a % b)
 Part of Accenture
 print ("Power:", a ** b)
-3. Conditional Statements in Python
+```
+
+## 3. Conditional Statements in Python
 Conditional statements help your program choose actions:
 Syntax:
+```
 if condition:
-# code if true
+    # code if true
 elif another_condition:
-# code if another condition true
+    # code if another condition true
 else:
-# code if all false
-Example:
+    # code if all false
+```
+**Example:**
+```
 age - int(input("Enter your age: "))
-if age >- 18:
-print("You can vote!")
+if age >= 18:
+    print("You can vote!")
 else:
-print("You are too young to vote.")
-4. Loops in Python
-4.1 For Loop
+    print("You are too young to vote.")
+```
+
+## 4. Loops in Python
+- 4.1 For Loop
 Repeats a fixed number of times:
-for i in range(1, 6):
-print(i)
-Part of Accenture
-4.2 While Loop
+```for i in range(1, 6):
+print(i)```
+
+- 4.2 While Loop
 Repeats while a condition is True:
-i = 1
+```i = 1
 while i <= 5:
 print(i)
-i += 1
-5. Strings in Python
-5.1 What is a String?
+i += 1```
+
+## 5. Strings in Python
+- 5.1 What is a String?
 A sequence of characters in quotes: "Hello" or 'Python'
-5.2 String Operations
+- 5.2 String Operations
+
 Concatenation and repetition:
-print("Hello" + " " + "World")
-print("Hi" * 3)
-5.3 String Functions
-Method
-Description
-Output
-Example
-"HELLO"
-Convert to
-upperi
-"hello". upper
-uppercase
-"HELLO".lower()
-"hello"
-Convert to
-lower)
-lowercase
+```print("Hello" + " " + "World")
+print("Hi" * 3)```
+
+- 5.3 String Functions
+|Method|Description|Output|Example|
+|---|---|---|---|
+|upper()|Convert to uppercase|"hello". upper()|"HELLO"|
+|lower()|Convert to lowercase|"HELLO".lower()|"hello"|
+
+
+
+
 "Hello World"
 "hello
 Title case each

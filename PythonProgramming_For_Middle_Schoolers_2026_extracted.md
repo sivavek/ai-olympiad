@@ -166,7 +166,7 @@ print(name, age, height, is_student)
 |/|a/b||Division (float)|
 |//|a // b|Floor Division|
 |%|a % b|Modulus (remainder)|
-|**||a ** b|Exponent (power)|
+|**|a ** b|Exponent (power)|
 
 **Example:**
 ```
@@ -202,17 +202,23 @@ else:
 ```
 
 ## 4. Loops in Python
+
 - 4.1 For Loop
+
 Repeats a fixed number of times:
-```for i in range(1, 6):
-print(i)```
+```
+for i in range(1, 6):
+print(i)
+```
 
 - 4.2 While Loop
 Repeats while a condition is True:
-```i = 1
+```
+i = 1
 while i <= 5:
 print(i)
-i += 1```
+i += 1
+```
 
 ## 5. Strings in Python
 - 5.1 What is a String?
@@ -220,131 +226,134 @@ A sequence of characters in quotes: "Hello" or 'Python'
 - 5.2 String Operations
 
 Concatenation and repetition:
-```print("Hello" + " " + "World")
-print("Hi" * 3)```
+```
+print("Hello" + " " + "World")
+print("Hi" * 3)
+```
 
 - 5.3 String Functions
 |Method|Description|Output|Example|
 |---|---|---|---|
 |upper()|Convert to uppercase|"hello". upper()|"HELLO"|
 |lower()|Convert to lowercase|"HELLO".lower()|"hello"|
+|title()|Title case each word|"hello world".title()|"Hello World"|
+|strip()|Remove spaces|"hi "strip()|"hi"|
+|replace(a,b)|Replace substring|"apple".replace("a", "A")|"Apple"|
+|split()|Split into list|"a,b,c". split(",")|['a', b', 'c]|
 
+## 6. Lists in Python
+- 6.1 Creating Lists
 
+`fruits - ['apple", "banana", "mango"]`
 
-
-"Hello World"
-"hello
-Title case each
-title(
-word
-world".title0
-"hi"
-Remove spaces
-stripl
-"hi "stripl
-Pant ot Assonture
-"Apple"
-"apple". replace'a
-Replace
-replace(a,b)
-", "A")
-substring
-"a,b,c". split", ")
-Split into list
-spliti
-l'a', b', 'c]
-6. Lists in Python
-6.1 Creating Lists
-fruits - ['apple", "banana", "mango"]
-6.2 Accessing Elements
+- 6.2 Accessing Elements
 Index starts at 0:
-print(fruits(O]) # apple
-print(truits -1]) # mango
-6.3 Adding Elements
-fruits.append("orange")
-6.4 Removing Elements
-fruits.remove("banana")
-# removes last
-fruits.pop0
-# removes first
-fruits.pop(0)
-7. Introduction to Tuple, Set & Dictionary
+```
+print(fruits[O]) # apple
+print(fruits[-1]) # mango
+```
+
+- 6.3 Adding Elements
+`fruits.append("orange")`
+
+- 6.4 Removing Elements
+```
+fruits.remove("banana") 
+fruits.pop() # removes last
+fruits.pop(0) # removes first
+```
+
+## 7. Introduction to Tuple, Set & Dictionary
 Part of Accenture
-7.1 Tuple
+- 7.1 Tuple
 Immutable list:
-colors = ('red", "green", "blue")
-7.2 Set
+`colors = ('red", "green", "blue")`
+
+- 7.2 Set
 Unordered collection of unique items:
-unique_colors = ('red", "blue", "green", "red") # duplicates removed
-7.3 Dictionary
+`unique_colors = ('red", "blue", "green", "red") # duplicates removed`
+
+- 7.3 Dictionary
 Collection of key-value pairs:
+```
 student = ('name": "Rahul", "age": 13)
 print(student['name"]) # Rahul
-8. Functions in Python
-8.1 What is a Function?
+
+## 8. Functions in Python
+- 8.1 What is a Function?
 A reusable block of code with inputs and outputs.
-8.2 Why Use Functions?
-- Reuse code
-- Organize programs
-- Avoid repetition
-8.3 How to Create a Function
-Part of Accenture
-def greet):
-print(Hello!")
-8.4 Calling a Function
-greet)
-8.5 Functions with Parameters
+- 8.2 Why Use Functions?
+    - Reuse code
+    - Organize programs
+    - Avoid repetition
+- 8.3 How to Create a Function
+```
+def greet():
+    print(Hello!")
+```
+- 8.4 Calling a Function
+`greet()`
+
+- 8.5 Functions with Parameters
+```
 def greet(name):
-print("Hello", name)
+    print("Hello", name)
 greet ("Alice")
-8.6 Functions with Return Value
+```
+
+- 8.6 Functions with Return Value
+```
 def add(a, b):
-return a + b
+    return a + b
 result = add(3, 5)
 print(result) # 8
-9. Basic Python Problems
-9.1 Section I: Code Reading
+```
+## 9. Basic Python Problems
+- 9.1 Section I: Code Reading
 Predict outputs of small code snippets
-1. print(5 + 3 * 2)
-Solent s
-Part of Accenture
-2. print('Hello' == 'HELLO')
-3. print(11 != 12 and 6 > 11)
-4. print(10 + 6 * 2** 2 != 9 / / 4 - 3 and 29 >= 29 / 9)
-5. print(3 % 10 + 10 < 30 and 78 < 89)
-6. print((4 < 6) or (not (10 = = 6) and (10 < 4)))
-7. a = 10
-b = 5
-a, b = b, a
-print(a, b)
-8. × = "Python"
-print(x(0], x[-1])
-print("Hello" + "World")
-print("Hello" * 3)
-9. x = 5
-y = x
-× = 10
-print(y)
-print(2 ** 3 ** 2)
-10.
-11.
+    1. print(5 + 3 * 2)
+    2. print('Hello' == 'HELLO')
+    3. print(11 != 12 and 6 > 11)
+    4. print(10 + 6 * 2** 2 != 9 / / 4 - 3 and 29 >= 29 / 9)
+    5. print(3 % 10 + 10 < 30 and 78 < 89)
+    6. print((4 < 6) or (not (10 = = 6) and (10 < 4)))
+    7. a = 10
+        b = 5
+        a, b = b, a
+        print(a, b)
+    8. × = "Python"
+        print(x(0], x[-1])
+        print("Hello" + "World")
+        print("Hello" * 3)
+    9. x = 5
+        y = x
+        × = 10
+        print(y)
+    10. print(2 ** 3 ** 2)
+    11.
+```
 def greet(name="User"):
-print("Hello", name)
-art of Accenture
-greet)
+    print("Hello", name)
+
+greet()
 greet("Alice")
-12.
-a = [1,2,3)
-print(a.pop), a)
+```
+    12.
+```
+        a = [1,2,3)
+        print(a.pop(), a)
+```
 13.
+```
 x = 5
-printx > 3 and x < 10)
-printx < 3 or x> 10)
-9.2 Section II: Practice Problems
+print(x > 3 and x < 10)
+print(x < 3 or x > 10)
+```
+
+## 9.2 Section II: Practice Problems
 - Write programs for displaying info, arithmetic operations, conditionals.
 - Write functions to compute areas, reverse strings, multiplication tables, etc.
 - Practice sorting, palindrome checks, second largest number, prime checks.
-- Advanced problems: counting frequency, removing duplicates, vowels
-counting, Armstrong numbers, etc.
-**
+- Advanced problems: counting frequency, removing duplicates, vowels counting, Armstrong numbers, etc.
+
 

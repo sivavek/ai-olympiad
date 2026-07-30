@@ -4,16 +4,16 @@ Python Programming for Middle Schoolers
 # Table of Contents
 
 1 Welcome to the World of Python
-  1 Why is Python easy to learn?
-  2 Where is Python used?
-  3 First Python Program
-  4 How to add Comments
-  5 What is Input in Python?
-  6 How to Take Input in Python?
-  7 What is a Variable?
-  8 How to Create a Variable in Python?
-  9 Rules for Variable Names
-  10 Data Types in Python
+  - Why is Python easy to learn?
+  - Where is Python used?
+  - First Python Program
+  - How to add Comments
+  - What is Input in Python?
+  - How to Take Input in Python?
+  - What is a Variable?
+  - How to Create a Variable in Python?
+  - Rules for Variable Names
+  - Data Types in Python
    
 3. Arithmetic Operators
 4. Conditional Statements in Python

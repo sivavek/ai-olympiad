@@ -24,10 +24,9 @@ Python Programming for Middle Schoolers
 	2. while loop
 
 5. Strings in Python
-    5.1 What is a String?
+	5.1 What is a String?
     5.2 String Operations
     5.3 String Functions (Methods)
-
 6. Lists in Python
 	6.1 Creating Lists
 	6.2 Accessing Elements (Indexing)

@@ -112,18 +112,19 @@ multi-line comment.
 Input means taking information while the program runs, e.g., asking for your
 name or numbers.
 - 1.6 How to Take Input in Python?
-Using input:
+Using `input()`:
+```
 name = input("Enter your name: ")
 print("'Hello", name)
-Important: Inputs through input() are strings by default. Convert to
-numbers when needed:
+*** Important: Inputs through input() are strings by default. Convert to numbers when needed: ***
 age = int(input(Enter your age: "))
 print("You are", age, "years old.")
-Example: Adding Two Numbers (correctly)
-Part of Accenture
+*** Example: Adding Two Numbers (correctly) ***
+
 a = int(input("Enter first number: ")
 b = int(input("Enter second number: ")
 print("Sum is:", a + b)
+```
 1.7 What is a Variable?
 A container that stores information such as numbers or text.
 1.8 How to Create a Variable

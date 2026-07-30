@@ -1,0 +1,12 @@
+National AI Olympia
+Crop Doctor AI (Fron
+The Scenario: A startup called "FarmGuard
+Their idea is to build a mobile app where a f
+an AI will instantly diagnose if it has a disea
+The Challenge: To do this, they need to buil
+Network.
+AI Concepts in Action:
+• Neural Networks (Chapter 5): Farm
+network. The input layer takes the pi
+to recognize simple patterns like leaf
+

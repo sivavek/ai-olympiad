@@ -1,0 +1,14 @@
+Q
+National AI Olymp
+The Delivery Dron
+Part 4)
+The Scenario: An Olympiad contestant
+company, "QuickFly," that uses drones
+the most efficient route for a drone to d
+locations before returning to the wareho
+The Challenge: The contestant must de
+possible route (the "optimal path"). This
+science known as the "Traveling Salespe
+AI Concepts in Action:
+• Algorithmic Thinking (Chapter
+

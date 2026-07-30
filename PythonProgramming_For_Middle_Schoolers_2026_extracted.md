@@ -264,7 +264,7 @@ fruits.pop(0) # removes first
 ```
 
 ## 7. Introduction to Tuple, Set & Dictionary
-Part of Accenture
+
 - 7.1 Tuple
 Immutable list:
 `colors = ('red", "green", "blue")`
@@ -278,7 +278,7 @@ Collection of key-value pairs:
 ```
 student = ('name": "Rahul", "age": 13)
 print(student['name"]) # Rahul
-
+```
 ## 8. Functions in Python
 - 8.1 What is a Function?
 A reusable block of code with inputs and outputs.

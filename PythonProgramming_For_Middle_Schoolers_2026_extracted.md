@@ -4,49 +4,48 @@ Python Programming for Middle Schoolers
 # Table of Contents
 
 1. Welcome to the World of Python
-1.1 Why is Python easy to learn?
-1.2 Where is Python used?
-1.3 First Python Program
-1.4 How to add Comments
-1.5 What is Input in Python?
-1.6 How to Take Input in Python?
-1.7 What is a Variable?
-1.8 How to Create a Variable in Python?
-1.9 Rules for Variable Names
-1.10 Data Types in Python
+  1.1 Why is Python easy to learn?
+	1.2 Where is Python used?
+	1.3 First Python Program
+	1.4 How to add Comments
+	1.5 What is Input in Python?
+	1.6 How to Take Input in Python?
+	1.7 What is a Variable?
+	1.8 How to Create a Variable in Python?
+	1.9 Rules for Variable Names
+	1.10 Data Types in Python
+   
 2. Arithmetic Operators
 3. Conditional Statements in Python
-3.1 What are Conditional Statements?
+	3.1 What are Conditional Statements?
 4. Loops in Python
-4.1 for loop
-4.2 while loop
+	4.1 for loop
+	4.2 while loop
 5. Strings in Python
-5.1 What is a String?
-5.2 String Operations
-5.3 String Functions (Methods)
-Part of Accenture
+	5.1 What is a String?
+	5.2 String Operations
+	5.3 String Functions (Methods)
 6. Lists in Python
-6.1 Creating Lists
-6.2 Accessing Elements (Indexing)
-6.3 Adding Elements to a List
-6.4 Removing Elements from a List
+	6.1 Creating Lists
+	6.2 Accessing Elements (Indexing)
+	6.3 Adding Elements to a List
+	6.4 Removing Elements from a List
 7. Introduction to Tuple, Set & Dictionary
-7.1 What is a Tuple?
-7.2 What is a Set?
-7.3 What is a Dictionary?
+	7.1 What is a Tuple?
+	7.2 What is a Set?
+	7.3 What is a Dictionary?
 8. Functions in Python
-8.1 What is a Function?
-8.2 Why Use Functions?
-8.3 How to Create a Function in Python?
-8.4 Calling a Function
-8.5 Functions with Parameters
-8.6 Functions with Return
+	8.1 What is a Function?
+	8.2 Why Use Functions?
+	8.3 How to Create a Function in Python?
+	8.4 Calling a Function
+	8.5 Functions with Parameters
+	8.6 Functions with Return
 9. Basic Python Problems
-9.1 Section I: Code Reading
-9.2 Section II: Practice Problems
-Spent S
-Part of Accenture
-1. Welcome to the World of Python
+	9.1 Section I: Code Reading
+	9.2 Section II: Practice Problems
+
+# 1. Welcome to the World of Python
 Ever wondered how apps like Instagram and YouTube work, or how self-driving
 cars make decisions? A lot of that magic is powered by Python
 History of Python

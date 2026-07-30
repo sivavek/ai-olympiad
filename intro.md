@@ -2,14 +2,14 @@ Welcome to the National AI Olympiad (Foundation) 2026, presented by TalentSprint
 
 # The National AI Olympiad Format
 ## Stage 1: Olympiad Exam 📅 8 & 9 August, 2026
-> 50 Multiple-Choice Questions
-> 90 Minutes
-> Demonstrate your AI knowledge and compete at School, Regional, and National levels.
+- 50 Multiple-Choice Questions
+- 90 Minutes
+- Demonstrate your AI knowledge and compete at School, Regional, and National levels.
 ## Stage 2: Hands-on Projects 📅 TBD
 
-> Work on real-world AI projects
-> Receive expert mentorship
-> Showcase your solutions to industry leaders
+- Work on real-world AI projects
+- Receive expert mentorship
+- Showcase your solutions to industry leaders
 
 # Stage 1: Olympiad Exam Structure (Foundation: Grades 6–8)
 | Section | Regular Section (40 Marks) | Achiever Section(30 Marks) | Total (70 Marks) |

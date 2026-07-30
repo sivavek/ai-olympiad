@@ -27,23 +27,26 @@ Python Programming for Middle Schoolers
 	5.1 What is a String?
 	5.2 String Operations
 	5.3 String Functions (Methods)
-7. Lists in Python
+
+6. Lists in Python
 	6.1 Creating Lists
 	6.2 Accessing Elements (Indexing)
 	6.3 Adding Elements to a List
 	6.4 Removing Elements from a List
-8. Introduction to Tuple, Set & Dictionary
+
+7. Introduction to Tuple, Set & Dictionary
 	7.1 What is a Tuple?
 	7.2 What is a Set?
 	7.3 What is a Dictionary?
-9. Functions in Python
+
+8. Functions in Python
 	8.1 What is a Function?
 	8.2 Why Use Functions?
 	8.3 How to Create a Function in Python?
 	8.4 Calling a Function
 	8.5 Functions with Parameters
 	8.6 Functions with Return
-10. Basic Python Problems
+9. Basic Python Problems
 	9.1 Section I: Code Reading
 	9.2 Section II: Practice Problems
 

@@ -15,12 +15,12 @@ Python Programming for Middle Schoolers
   9. Rules for Variable Names
   10. Data Types in Python
    
-3. Arithmetic Operators
-4. Conditional Statements in Python
-	3.1 What are Conditional Statements?
-5. Loops in Python
-	4.1 for loop
-	4.2 while loop
+2. Arithmetic Operators
+3. Conditional Statements in Python
+	1. What are Conditional Statements?
+4. Loops in Python
+ 1. for loop
+ 2. while loop
 6. Strings in Python
 	5.1 What is a String?
 	5.2 String Operations

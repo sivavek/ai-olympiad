@@ -4,7 +4,7 @@ Python Programming for Middle Schoolers
 # Table of Contents
 
 1. Welcome to the World of Python
-	2. Why is Python easy to learn?
+  1. Why is Python easy to learn?
   3. Where is Python used?
   4. First Python Program
   5. How to add Comments

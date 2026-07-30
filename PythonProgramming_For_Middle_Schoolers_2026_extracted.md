@@ -88,25 +88,26 @@ learning, and more
 > that was short, unique, and slightly mysterious, hence "Python"
 
 1.1 Why is Python Easy to Learn?
-- Simple English-like language
-- No semicolons or curly braces
-- Write less code, do more work
-- Free and open source
+    - Simple English-like language
+    - No semicolons or curly braces
+    - Write less code, do more work
+    - Free and open source
 1.2 Where is Python Used?
-- Games like Snake and Flappy Bird
-- Apps & Websites like Instagram and YouTube
-- Artificial Intelligence (AI) and Robotics
-Spent S
-Part of Accenture
+    - Games like Snake and Flappy Bird
+    - Apps & Websites like Instagram and YouTube
+    - Artificial Intelligence (AI) and Robotics
 1.3 First Python Program
-print("Welcome! Learn Python")
+`print("Welcome! Learn Python")`
+
 1.4 How to Add Comments
-- Single-line comment: Use #
-..."**
-- Multi-line comment: Use triple quotes "''*
+    - Single-line comment: Use `#`
+    - Multi-line comment: Use triple quotes `###.....###`
+```
 # This is a single-line comment
-This is a
+### This is a
 multi-line comment.
+###
+```
 1.5 What is Input in Python?
 Input means taking information while the program runs, e.g., asking for your
 name or numbers.

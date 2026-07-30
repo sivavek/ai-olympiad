@@ -55,8 +55,8 @@ Ever wondered how apps like Instagram and YouTube work, or how self-driving
 cars make decisions? A lot of that magic is powered by Python
 ## History of Python
 Python is a popular, high-level programming language created by Guido van Rossum at the Centrum Wiskunde & Informatica (CWI) in the Netherlands.
-Development began in the late 1980s and Python was first released publicly in
-1991 as version 0.9.0.
+Development began in the late 1980s and Python was first released publicly in 1991 as version 0.9.0.
+
 Key milestones in Python's history:
 - 1989: Guido van Rossum started the development of Python as a
 successor to the ABC programming language, aiming for a language that
@@ -70,22 +70,23 @@ collection, and other major enhancements.
 - December 2008: Python 3.0 released, breaking backward compatibility to
 fix language flaws and improve consistency. This led to a transition period
 where many projects migrated from Python 2 to Python 3.
-Spent S
-Part of Accenture
 - Present: Python has grown to be one of the most popular programming
 languages worldwide due to its simplicity, large standard library, and wide
 use in web development, data science, artificial intelligence, automation,
 and education.
+
 Reasons Behind Python's Popularity:
 - Easy-to-read, English-like syntax that lowers the barrier to programming
 - Extensive support libraries and active open-source community
 - Versatility for scripting, web applications, scientific computing, machine
 learning, and more
 - Cross-platform support on Windows, Linux, macOS, and mobile platforms
-One fun fact about Python is that the language's name was inspired not by the
-snake, but by the British comedy TV show "Monty Python's Flying Circus." Guido
-van Rossum, the creator of Python, was a fan of the show and wanted a name
-that was short, unique, and slightly mysterious, hence "Python"
+> [!NOTE]
+> One fun fact about Python is that the language's name was inspired not by the
+> snake, but by the British comedy TV show "Monty Python's Flying Circus." Guido
+> van Rossum, the creator of Python, was a fan of the show and wanted a name
+> that was short, unique, and slightly mysterious, hence "Python"
+
 1.1 Why is Python Easy to Learn?
 - Simple English-like language
 - No semicolons or curly braces

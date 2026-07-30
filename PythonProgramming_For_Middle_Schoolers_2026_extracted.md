@@ -22,7 +22,8 @@ Python Programming for Middle Schoolers
 4. Loops in Python
 	1. for loop
 	2. while loop
-6. Strings in Python
+
+5. Strings in Python
 	5.1 What is a String?
 	5.2 String Operations
 	5.3 String Functions (Methods)

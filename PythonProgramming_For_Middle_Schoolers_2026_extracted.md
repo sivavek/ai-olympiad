@@ -53,57 +53,56 @@ Python Programming for Middle Schoolers
 # 1. Welcome to the World of Python
 Ever wondered how apps like Instagram and YouTube work, or how self-driving
 cars make decisions? A lot of that magic is powered by Python
-History of Python
-Python is a popular, high-level programming language created by Guido van
-Rossum at the Centrum Wiskunde & Informatica (CWI) in the Netherlands.
+## History of Python
+Python is a popular, high-level programming language created by Guido van Rossum at the Centrum Wiskunde & Informatica (CWI) in the Netherlands.
 Development began in the late 1980s and Python was first released publicly in
 1991 as version 0.9.0.
 Key milestones in Python's history:
-• 1989: Guido van Rossum started the development of Python as a
+- 1989: Guido van Rossum started the development of Python as a
 successor to the ABC programming language, aiming for a language that
 is easy to read and use.
-• February 1991: Python 0.9.0 released, including important features such
+- February 1991: Python 0.9.0 released, including important features such
 as exception handling, functions, and modules.
-• January 1994: Python 1.0 released with added features like lambda
+- January 1994: Python 1.0 released with added features like lambda
 functions, map/filter, and support for complex numbers.
-• October 2000: Python 2.0 introduced list comprehensions, garbage
+- October 2000: Python 2.0 introduced list comprehensions, garbage
 collection, and other major enhancements.
-• December 2008: Python 3.0 released, breaking backward compatibility to
+- December 2008: Python 3.0 released, breaking backward compatibility to
 fix language flaws and improve consistency. This led to a transition period
 where many projects migrated from Python 2 to Python 3.
 Spent S
 Part of Accenture
-• Present: Python has grown to be one of the most popular programming
+- Present: Python has grown to be one of the most popular programming
 languages worldwide due to its simplicity, large standard library, and wide
 use in web development, data science, artificial intelligence, automation,
 and education.
 Reasons Behind Python's Popularity:
-• Easy-to-read, English-like syntax that lowers the barrier to programming
-• Extensive support libraries and active open-source community
-• Versatility for scripting, web applications, scientific computing, machine
+- Easy-to-read, English-like syntax that lowers the barrier to programming
+- Extensive support libraries and active open-source community
+- Versatility for scripting, web applications, scientific computing, machine
 learning, and more
-• Cross-platform support on Windows, Linux, macOS, and mobile platforms
+- Cross-platform support on Windows, Linux, macOS, and mobile platforms
 One fun fact about Python is that the language's name was inspired not by the
 snake, but by the British comedy TV show "Monty Python's Flying Circus." Guido
 van Rossum, the creator of Python, was a fan of the show and wanted a name
 that was short, unique, and slightly mysterious, hence "Python"
 1.1 Why is Python Easy to Learn?
-• Simple English-like language
-• No semicolons or curly braces
-• Write less code, do more work
-• Free and open source
+- Simple English-like language
+- No semicolons or curly braces
+- Write less code, do more work
+- Free and open source
 1.2 Where is Python Used?
-• Games like Snake and Flappy Bird
-• Apps & Websites like Instagram and YouTube
-• Artificial Intelligence (AI) and Robotics
+- Games like Snake and Flappy Bird
+- Apps & Websites like Instagram and YouTube
+- Artificial Intelligence (AI) and Robotics
 Spent S
 Part of Accenture
 1.3 First Python Program
 print("Welcome! Learn Python")
 1.4 How to Add Comments
-• Single-line comment: Use #
+- Single-line comment: Use #
 ..."**
-• Multi-line comment: Use triple quotes "''*
+- Multi-line comment: Use triple quotes "''*
 # This is a single-line comment
 This is a
 multi-line comment.
@@ -130,15 +129,15 @@ name = "Akash"
 age = 13
 score = 100
 1.9 Variable Naming Rules
-• Can contain letters, numbers, underscores
-• Cannot start with a number
-• No spaces allowed
-• Case-sensitive
+- Can contain letters, numbers, underscores
+- Cannot start with a number
+- No spaces allowed
+- Case-sensitive
 1.10 Data Types in Python
-• int: whole numbers
-• float: decimal numbers
-• str: text/string
-• bool: True or False
+- int: whole numbers
+- float: decimal numbers
+- str: text/string
+- bool: True or False
 talent s
 Part of Accenture
 Example:
@@ -283,9 +282,9 @@ print(student['name"]) # Rahul
 8.1 What is a Function?
 A reusable block of code with inputs and outputs.
 8.2 Why Use Functions?
-• Reuse code
-• Organize programs
-• Avoid repetition
+- Reuse code
+- Organize programs
+- Avoid repetition
 8.3 How to Create a Function
 Part of Accenture
 def greet):
@@ -340,10 +339,10 @@ x = 5
 printx > 3 and x < 10)
 printx < 3 or x> 10)
 9.2 Section II: Practice Problems
-• Write programs for displaying info, arithmetic operations, conditionals.
-• Write functions to compute areas, reverse strings, multiplication tables, etc.
-• Practice sorting, palindrome checks, second largest number, prime checks.
-• Advanced problems: counting frequency, removing duplicates, vowels
+- Write programs for displaying info, arithmetic operations, conditionals.
+- Write functions to compute areas, reverse strings, multiplication tables, etc.
+- Practice sorting, palindrome checks, second largest number, prime checks.
+- Advanced problems: counting frequency, removing duplicates, vowels
 counting, Armstrong numbers, etc.
 **
 
